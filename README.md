@@ -7,7 +7,7 @@ A clean and fully functional Login & Signup form built with HTML, CSS, and JavaS
 ## 🔗 Links
 
 - **Live Demo:** [https://loginsignup002.netlify.app/]
-- **GitHub Repo:** []
+- **GitHub Repo:** [https://github.com/SreetamDash/Login-and-signup-page]
 
 
 
